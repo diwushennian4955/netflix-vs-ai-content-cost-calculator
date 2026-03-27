@@ -1,0 +1,14 @@
+{
+  "name": "netflix-vs-ai-content-cost-calculator",
+  "version": "1.0.0",
+  "description": "Calculate how many AI assets you can generate for the price of a Netflix subscription",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["ai-api", "image-generation", "video-generation", "cost-comparison", "nexaapi"],
+  "dependencies": {
+    "nexaapi": "latest"
+  }
+}
